@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<cartera-de-pedidos>
+	<cliente>Juan López</cliente>
+	<tienda>Librería Delaesquina</tienda>
+	<mercancias>
+		<libro>
+			<titulo>Pedro Salinas. Obras completas</titulo>
+		</libro>
+	</mercancias>	
+</cartera-de-pedidos>

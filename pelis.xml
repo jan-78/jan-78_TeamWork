@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Peliculas>
+  <Pelicula>
+    <Pelicula1/>
+    <Titulo>El club de la lucha</Titulo>
+    <Anoderodaje>1999</Anoderodaje>
+    <Duracion>139</Duracion>
+    <Actorprincipal>Edward Norton, Brad Pitt, Helena Bonham Carter</Actorprincipal>
+  </Pelicula>
+  <Pelicula>
+    <Pelicula2/>
+    <Titulo>La vida es bella</Titulo>
+    <Anoderodaje>1997</Anoderodaje>
+    <Duracion>117</Duracion>
+    <Actorprincipal>Roberto Benigni</Actorprincipal>
+  </Pelicula>
+  <Pelicula>
+    <Pelicula3/>
+    <Titulo>El silencio de los corderos</Titulo>
+    <Anoderodaje>1991</Anoderodaje>
+    <Duracion>115</Duracion>
+    <Actorprincipal>Jodie Foster, Anthony Hopkins</Actorprincipal>
+  </Pelicula>
+  <Pelicula>
+    <Pelicula4/>
+    <Titulo>El gran dictador</Titulo>
+    <Anoderodaje>1940</Anoderodaje>
+    <Duracion>128</Duracion>
+    <Actorprincipal>Charles Chaplin</Actorprincipal>
+  </Pelicula>
+<Pelicula>
+    <Pelicula5/>
+    <Titulo>The Matrix</Titulo>
+    <Anoderodaje>1999</Anoderodaje>
+    <Duracion>136</Duracion>
+    <Actorprincipal>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving</Actorprincipal>
+  </Pelicula>
+</Peliculas>
