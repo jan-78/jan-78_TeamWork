@@ -35,4 +35,11 @@
     <Duracion>136</Duracion>
     <Actorprincipal>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving</Actorprincipal>
   </Pelicula>
+  <Pelicula>
+    <Pelicula6/>
+    <Titulo>Alien el octavo pasajero</Titulo>
+    <Anoderodaje>1979</Anoderodaje>
+    <Duracion>116</Duracion>
+    <Actorprincipal>Sigourney Weaver</Actorprincipal>
+  </Pelicula>
 </Peliculas>
